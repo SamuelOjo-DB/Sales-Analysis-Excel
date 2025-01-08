@@ -17,7 +17,7 @@ This project aims to review and analyse the sales data from multiple branches of
 - [Recommendation](#recommendation)
 
 ### Data Source
-The dataset used in this project was obtained from [Kaggle](https://www.kaggle.com/datasets/ishanshrivastava28/superstore-sales) and titled the "Superstore sales" Dataset.
+The dataset used in this project was obtained from [Kaggle](https://www.kaggle.com/datasets/ishanshrivastava28/superstore-sales).
 
 ### Business Questions
 - How have profit and sales performed over the years?
